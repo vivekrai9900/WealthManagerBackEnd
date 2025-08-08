@@ -37,7 +37,7 @@ A full-stack application that provides Indian investors with a clear, comprehens
 | Layer     | Tech Used                 |
 |-----------|---------------------------|
 | Frontend  | React.js, Chart.js/Recharts, CSS/Tailwind |
-| Backend   | FastAPI / Node.js / Express |
+| Backend   | FastAPI|
 | Data Store| Static JSON / Excel converted |
 | Deployment| Vercel / Render / Netlify / Railway / Replit |
 
