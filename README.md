@@ -78,8 +78,8 @@ Returns key insights: total value, top/worst performer, risk level, etc.
 
 ## ✅ Working Demo
 
-- 🔗 Live Frontend: [your-frontend-url]
-- 🔗 Live API: [your-backend-url]
+- 🔗 Live Frontend: [[your-frontend-url](https://wealth-manager-front-end-ten.vercel.app/)]
+- 🔗 Live API: [[your-backend-url](https://wealthmanagerbackend.onrender.com)]
 - 📁 Sample Data: [Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTEIflXcZ6X-gxHOExxEbZq_i-UscM6HfsZj5tog9pkw6PQfi6E5u4NRRNuKpWTUSfufqkvDjP32NJD/pub?output=xlsx)
 
 ---
